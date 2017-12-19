@@ -1,0 +1,630 @@
+B interferindo em A
+Distancia protegida para o item 21715.0 (SISTEMA ALAGOANO DE RADIODIFUSAO LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 210.14695017485383
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 21762.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 216.6287710604272
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 21787.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 252.91960983369933
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 21795.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 277.43674239248753
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 21937.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 274.6793696680775
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22003.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 220.37194590615266
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22010.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 229.38008004850101
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22016.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 118.43618936341868
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22036.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 135.5631388133005
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22185.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 139.75224592792753
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22245.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 277.9365463033758
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22280.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 116.98336320141837
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22297.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 238.08810185182966
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22348.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 213.2060350891585
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22379.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 176.67491277538196
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22391.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 115.20016689836507
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22410.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 152.69887305108264
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22419.0 (RADIO FM SERROTE LTDA) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 210.515857098809
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22435.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 224.29677547101215
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22436.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 115.43411253613796
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22458.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 116.5498386548013
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22480.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 260.046915387761
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22490.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 263.8473990586229
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22514.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 251.43813407374026
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22546.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 48.46023998576203
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22549.0 (FH COMUNICACAO E PARTICIPACOES LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 279.50044008181186
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22552.0 (RADIO QUIXELO FM LTDA) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 187.02382889701877
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22560.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 168.79804502780058
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22561.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 146.9641803153458
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22576.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 246.76062204957276
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 22580.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 148.10011599907622
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24629.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 265.3674048860383
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24641.0 (SISTEMA DE COMUNICACAO ANEL DO BREJO LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 272.43406340913526
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24657.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 290.84190676193947
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24658.0 (SISTEMA DE COMUNICACAO ANEL DO BREJO LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 180.58361012845293
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24676.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 206.0216035732185
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24721.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 237.09135346120178
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24745.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 246.1925451337557
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24757.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 114.23420774302448
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24769.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 125.84018532141624
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24773.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 267.255771742217
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24787.0 (RADIO CIDADE FM DE SUME LTDA.) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 267.8019944190592
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24802.0 (MERCOM BRASILIA COMUNICACAO LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 272.5590520695077
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24818.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 73.15858405441756
+Interferência
+
+B interferindo em A
+Distancia protegida para o item 24821.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 230.8701909935931
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24831.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 166.094185633504
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24833.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 74.32384613739082
+Interferência
+
+B interferindo em A
+Distancia protegida para o item 24849.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 172.1794471093035
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24851.0 (RADIO CULTURAL DE VITORIA LTDA) = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 66.52447735891495
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24855.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 145.72835130663057
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24869.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 296.5340181574763
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 24877.0 (RADIO POCO VERDE FM LTDA) = 5.46
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24879.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 234.92668318128054
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24891.0 (REDE BRASIL DE COMUNICACOES LTDA) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 159.7708288005414
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24898.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 43.85729257719034
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24904.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 71.38258171683785
+Interferência
+
+B interferindo em A
+Distancia protegida para o item 24917.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 165.99530928929224
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24942.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 119.37919812066087
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24943.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 126.56130631144659
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24947.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 147.5601027495423
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 24948.0 (RADIO E TELEVISAO GRANDE RIO FM STEREO LTDA) = 5.46
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24956.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 228.4619237511499
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24961.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 0.0
+Interferência
+
+B interferindo em A
+Distancia protegida para o item 24966.0 (RADIO CIDADE TABIRA FM - LTDA.) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 201.2638166907354
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24971.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 34.115176449266784
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24979.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 233.79032491739065
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 24990.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 208.4150119334991
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25000.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 299.93310733519877
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25012.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 166.89050807597246
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25024.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 286.56689943230276
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25025.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 283.9195460158453
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25032.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 284.6647627769385
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25050.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 177.218944139656
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25066.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 228.49031224742504
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25074.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 296.3475941959
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25075.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 263.1774150767981
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25076.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 246.57498445793357
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25079.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 212.85598150121447
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25088.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 253.05408673086302
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25117.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 281.08308464819106
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25123.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 216.6659737243569
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25132.0 (ALAGOAS COMUNICACAO LTDA) = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 186.79816665492496
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25139.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 244.54920006596723
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25181.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 288.1745309342114
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25754.0 () = 7.5 e distancia interferente = 67.1
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 93.3
+Distancia maxima = 105.8266863052455 Distancia entre os 2 220.37649987633543
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 25795.0 () = 2.52
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25861.0 () = 7.5 e distancia interferente = 11.9
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 20.5
+Distancia maxima = 32.99894065281822 Distancia entre os 2 210.79291148084894
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 25878.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 271.0006378579596
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 27723.0 (FUNDACAO ANTONIO GOMES NETO) = 2.52
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 27736.0 () = 2.52
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+B interferindo em A
+Distancia protegida para o item 28050.0 () = 7.5 e distancia interferente = 1.8
+A interferindo em B
+Distancia protegida para a base  = 12.5 e distancia interferente = 2.83
+Distancia maxima = 15.331367177831975 Distancia entre os 2 210.70119166177162
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 28353.0 () = 2.52
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
+Contorno protedido de E(50,50) para 85 dBu para o item 28436.0 () = 7.96
+Contorno protedido de E(50,50) para 85 dBu para a base = 4.1
+Não há problema
+
